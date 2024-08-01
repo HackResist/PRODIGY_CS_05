@@ -11,15 +11,15 @@ The Packet Sniffer Tool is a graphical user interface (GUI) application built us
   - **Save Results:** Results are saved to a file named `packet_sniffer_results.txt`.
 
 ## Installation
-
-  1.Ensure you have Python installed (preferably Python 3.6 or newer).
-  2.Install the required libraries by running:
+  1. Clone or Download Zip File of this repository.
+  2.Ensure you have Python installed (preferably Python 3.6 or newer).
+  3.Install the required libraries by running:
       `pip install scapy`
-  3.Save the script as `packet_sniffer_tool.py`.
+ 
   
 ## Usage
   1.**Run the Application:** Execute the script with Python:
-      `python packet_sniffer_tool.py`
+      `python script_name.py`
   2.**Accept Disclaimer:** Read and accept the disclaimer to proceed.
   3.**Start Sniffing:** Click the "Start Sniffing" button to begin capturing packets.
   4.**Stop Sniffing:** Click the "Stop Sniffing" button to stop capturing packets.
