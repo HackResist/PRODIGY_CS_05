@@ -38,7 +38,7 @@ The Packet Sniffer Tool is a graphical user interface (GUI) application built us
   <a href="#blank"><img src="Disclaimer.png" alt="HackResist"></a>
 </p5>
 
-<p align="right">
+<p align="left">
   <a href="#blank"><img src="User%20Interface.png" alt="HackResist"></a>
 </p>
 
